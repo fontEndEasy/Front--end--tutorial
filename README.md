@@ -181,30 +181,19 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>Avalon新一代UI库： OniUI|http://ued.qunar.com/oniui/index.html </div>
 <div>avalon.oniui-基于avalon的组件库|https://github.com/RubyLouvre/avalon.oniui |  </div>
 
-###### Requriejs| 地址 --- | ---  
-<div>Javascript模块化编程（一）：模块的写法 |http://www.ruanyifeng.com/blog/2012/10/javascript_module.html </div>
-<div>Javascript模块化编程（二）：AMD规范|http://www.ruanyifeng.com/blog/2012/10/<div>asynchronous_module_definition.html </div>
-<div>Javascript模块化编程（三）：require.js的用法|http://www.ruanyifeng.com/blog/2012/11/require_js.html </div>
-<div>RequireJS入门（一）|http://www.cnblogs.com/snandy/archive/2012/05/22/2513652.html </div>
-<div>RequireJS入门（二）|http://www.cnblogs.com/snandy/archive/2012/05/23/2513712.html </div>
-<div>RequireJS进阶（三）|http://www.cnblogs.com/snandy/archive/2012/06/08/2538001.html </div>
-<div>requrie源码学习|http://www.cnblogs.com/yexiaochai/p/3632580.html  </div>
-<div>requrie 入门指南|http://www.oschina.net/translate/getting-started-with-the-requirejs-library  </div>
-<div>requrieJS 学习笔记|http://www.cnblogs.com/yexiaochai/p/3214926.html  </div>
-<div>requriejs 其一 |http://cyj.me/why-seajs/requirejs/  </div>
-<div>require backbone结合|http://www.cnblogs.com/yexiaochai/p/3221081.html    </div>
-
-###### Seajs| 地址 --- | ---  
+###### Seajs| 地址 --- | ---
 <div>seajs|http://seajs.org seajs </div>
 <div>中文手册|http://cyj.me/why-seajs/zh  </div>
-</div>
-###### Less,sass| 地址 --- | ---  
+
+
+###### Less,sass| 地址 --- | ---
 <div>sass|http://www.w3cplus.com/sassguide </div>
 <div>sass教程-sass中国|http://www.sass.hk </div>
 <div>Sass 中文文档|http://sass.bootcss.com </div>
-<div>less|http://less.bootcss.com   
+<div>less|http://less.bootcss.com   </div>
 
-###### Markdown| 地址 --- | ---  </div>
+
+###### Markdown| 地址 --- | ---  
 <div>Markdown 语法说明 (简体中文版|http://wowubuntu.com/markdown </div>
 <div>markdown入门参考|https://github.com/LearnShare/Learning-Markdown/blob/master/README.md </div>
 <div>gitbook|https://www.gitbook.com </div>
@@ -220,7 +209,7 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>lofter|http://datavisual.lofter.com/post/40cf3a_188e535 </div>
 <div>iteye|http://alanland.iteye.com/blog/1878595 </div>
 <div>ruanyifeng|http://javascript.ruanyifeng.com/library/d3.html   </div>
-</div>
+
 ###### 兼容性| 地址 --- | ---  
 <div>esma 兼容列表|http://kangax.github.io/compat-table/es6 </div>
 <div>W3C CSS验证服务|http://jigsaw.w3.org/css-validator/validator.html.zh-cn </div>
@@ -249,23 +238,7 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 ###### HTTP| 地址 --- | ---  
 <div>HTTP API 设计指南|http://segmentfault.com/bookmark/1230000002521721   </div>
 
-###### 其它API| 地址 --- | ---  
-<div>javascript流行库汇总|javascriptoo </div>
-<div>验证api|http://niceue.com/validator/demo/index.php </div>
-<div>underscore 中文手册|http://www.css88.com/doc/underscore </div>
-<div>underscore源码分析|http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-<div>source-code-analysis%203031 underscore源码分析-亚里士朱德的博客|http://yalishizhude.github.io/tags/underscore</div> 
-<div>underscrejs en api|http://underscorejs.org </div>
-<div>lodash - underscore的代替品|https://lodash.com </div>
-<div>ext4api|http://extjs-doc-cn.github.io/ext4api </div>
-<div>backbone 中文手册|http://www.csser.com/tools/backbone/backbone.js.html </div>
-<div>qwrap手册|http://dev.qwrap.com/resource/js/_docs/_youa/#/qw/base/loadJs_.htm </div>
-<div>缓动函数|http://easings.net/zh-cn </div>
-<div>svg 中文参考|http://www.w3school.com.cn/svg/svg_reference.asp </div>
-<div>svg mdn参考|https://developer.mozilla.org/en-US/docs/Web/SVG </div>
-<div>svg 导出 canvas|https://github.com/gabelerner/canvg </div>
-<div>svg 导出 png|https://github.com/exupero/saveSvgAsPng </div>
-<div>ai-to-svg|http://www.zamzar.com/convert/ai-to-svg </div>
-<div>localStorage 库|https://github.com/machao/localStorage   </div>
+
 
 ###### 图表类| 地址 --- | ---  
 <div>Highcharts 中文API|http://www.hcharts.cn/api/index.php </div>
@@ -280,23 +253,25 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>Vue 论坛|http://forum.vuejs.org </div>
 <div>Vue 入门指南|http://www.cnblogs.com/aaronjs/p/3660102.html </div>
 <div>Vue 的一些资源索引|http://segmentfault.com/a/1190000000411057 </div>
-<div><div>awesome-vue|https://github.com/vuejs/awesome-vue   </div>
+<div>awesome-vue|https://github.com/vuejs/awesome-vue   </div>
 
-<div>###### 正则| 地址 --- | ---  </div>
-<div>JS正则表达式元字符|http://segmentfault.com/a/1190000002471140</div><div>正则表达式30分钟入门教程|http://deerchao.net/tutorials/regex/regex.htm </div>
+###### 正则| 地址 --- | ---
+<div>JS正则表达式元字符|http://segmentfault.com/a/1190000002471140</div>
+<div>正则表达式30分钟入门教程|http://deerchao.net/tutorials/regex/regex.htm </div>
 <div>MDN-正则表达式|https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions</div> 
 <div>ruanyifeng - RegExp对象|http://javascript.ruanyifeng.com/stdlib/regexp.html </div>
 <div>小胡子哥 - 进阶正则表达式|http://div.io/topic/764?page=1 </div>
 <div>is.js|https://github.com/Cedriking/is.js/blob/master/is.js </div>
 <div>正则在线测试|http://regexper.com   </div>
 
-<div>###### ionic| 地址 --- | --- </div>
-<div>ionic|https###### ://github.com/ychow/ionic-guide   </div>
+###### ionic| 地址 --- | ---
+<div>ionic|https://github.com/ychow/ionic-guide   </div>
 
-<div>###### 其它| 地址 --- | ---  </div>
-<div>Mock.js 是一款模拟数据生成器|http://mockjs.com   </div>
-<div></div>
-<div>###### 前端| 地址 --- | --- </div>
+###### 其它| 地址 --- | ---
+<div>Mock.js 是一款模拟数据生成器|http://mockjs.com</div>
+           
+
+###### 前端| 地址 --- | ---
 <div>通过分析github代码库总结出来的工程师代码书写习惯|http://alloyteam.github.io/CodeGuide </div>
 <div>HTML&amp;CSS编码规范 by @mdo|http://codeguide.bootcss.com </div>
 <div>团队合作的css命名规范-腾讯AlloyTeam前端团队|http://www.alloyteam.com/2011/10/107 </div>
@@ -319,15 +294,16 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>css模块|http://www.75team.com/archives/1049 </div>
 <div>前端规范资源列表|https://github.com/ecomfe/spec   </div>
 
-<div>###### PHP| 地址 --- | ---  </div>
+###### PHP| 地址 --- | ---
 <div>最流行的PHP 代码规范|http://segmentfault.com/a/1190000000443795 </div>
 <div>最流行的PHP 代码规范|https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md</div>   
 <div></div>
-<div>######Android| 地址 --- | ---  </div>
+
+######Android| 地址 --- | ---
 <div>【敏捷开发】Android团队开发规范|http://www.cnblogs.com/lcw/p/3619181.html </div>
 <div>Android 开发规范与应用|http://www.jianshu.com/p/4390f4fe19b3   </div>
 
-<div>###### 各大公司开源项目| 地址 --- | ---  </div>
+###### 各大公司开源项目| 地址 --- | ---
 <div>Facebook Projects|https://code.facebook.com/projects/web </div>
 <div>百度web前端研发部|http://fex.baidu.com </div>
 <div>百度EFE|http://efe.baidu.com </div>
@@ -336,7 +312,8 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>alloyteam-AlloyGameEngine|https://github.com/AlloyTeam/AlloyGameEngine AlloyDesigner|http://alloyteam.github.io/AlloyDesigner</div> 
 <div>即时修改，即时保存，设计稿较正，其它开发辅助工具 H5交互页编辑器AEditor介绍|http://www.alloyteam.com/2015/06/h5-jiao-hu-ye-bian-ji-qi-aeditor-jie-shao </div>
 <div></div>
-<div>###### H5动画交互页开发的工具介绍 </div>
+
+###### H5动画交互页开发的工具介绍
 <div>AEditor|http://aeditor.alloyteam.com </div>
 <div>H5动画交互页开发的工具 maka|http://forum.maka.im/wordpress </div>
 <div></div>
@@ -344,39 +321,43 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>腾讯html5|http://cube.qq.com </div>
 <div>奇舞团开源项目|http://75team.github.io Qunar UED|http://ued.qunar.com </div>
 <div>Scrat|http://scrat.io   </div>
-<div></div>
-<div>###### 常用 |地址 --- | ---  </div>
+
+###### 常用 |地址 --- | ---
 <div>ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性|http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome</div> 
 <div>模拟键盘|http://mottie.github.io/Keyboard </div>
 <div>拼音|https://github.com/hotoo/pinyin </div>
 <div>中国个人身份证号验证|https://github.com/mc-zone/IDValidator   </div>
 <div></div>
-<div>###### 算法 | 地址 --- | ---  </div>
+###### 算法 | 地址 --- | ---
 <div>数据结构与算法 JavaScript 描述. 章节练习|https://github.com/Ralph-Wang/algorithm.in.js </div>
 <div>常见排序算法（JS版）|https://github.com/twobin/twobinSort 经典排序|https://github.com/luofei2011/jsAgm/blob/master/js/sort.js </div>
 <div>常见排序算法-js版本|https://github.com/hechangmin/jssort </div>
 <div>JavaScript 算法与数据结构 精华集|https://github.com/lightningtgc/JavaScript-Algorithms </div>
 <div>面试常考算法题精讲|http://www.nowcoder.com/live/courses   </div>
 <div></div>
-<div>###### 移动端 | 地址 --- | ---  </div>
+
+###### 移动端 | 地址 --- | ---
 <div>fastclick|https://github.com/ftlabs/fastclick </div>
 <div>no-click-delay|https://github.com/mmastrac/jquery-noclickdelay</div>   
 <div></div>
-<div>###### JSON | 地址 --- | ---  </div>
+
+######## JSON | 地址 --- | ---
 <div>模拟生成JSON数据|http://beta.json-generator.com </div>
 <div>返回跨域JSONAPI|http://jsonp.afeld.me   </div>
 <div></div>
-<div>###### Html5 | 地址 --- | ---  </div>
+
+###### Html5 | 地址 --- | ---
 <div>HTML5 有哪些让你惊艳的 demo？|http://www.zhihu.com/question/24398907  </div> 
 <div>CSS | 地址 --- | ---  browserhacks|http://browserhacks.com   </div>
 <div></div>
-<div>###### 焦点图 | 地址 --- | ---  </div>
+
+###### 焦点图 | 地址 --- | ---
 <div>myfocus|https://github.com/koen301/myfocus </div>
 <div>myfocus-官方演示站|http://www.chhua.com/myfocus </div>
 <div>SuperSlidev2.1 -- 大话主席|http://www.superslide2.com </div>
 <div>soChange|http://www.bujichong.com/sojs/soChange/index.html   </div>
 <div></div>
-<div>###### Ext, EasyUI, J-UI 及其它各种UI方案 | 地址 --- | --- </div>
+###### Ext, EasyUI, J-UI 及其它各种UI方案 | 地址 --- | ---
 <div>extjs|https://www.sencha.com/products/extjs </div>
 <div>ext4英文api|http://docs.sencha.com/extjs/4.0.7 </div>
 <div>ext4中文api|http://extjs-doc-cn.github.io/ext4api   </div>
@@ -392,14 +373,14 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>Smart UI|http://smartui.chinamzz.com </div>
 <div>雅虎UI - CSS UI|http://developer.yahoo.com/yui/grids   </div>
 <div></div>
-<div>###### 页面 社会化 分享功能 | 地址 --- | --- </div>
+###### 页面 社会化 分享功能 | 地址 --- | --- 
 <div>百度分享|http://share.baidu.com </div>
 <div>pc端 JiaThis|http://jiathis.com </div>
 <div>pc端 社会化分享组件|http://developer.baidu.com/soc/share </div>
 <div>移动端 ShareSDK 轻松实现社会化功能|http://www.mob.com/#/index </div>
 <div>移动端 友盟分享|http://dev.umeng.com/social/android/quick-integration </div>
-</div>
-<div>###### 移动端   富文本编辑器 | 地址 --- | ---  </div>
+
+###### 移动端   富文本编辑器 | 地址 --- | ---  
 <div>功能齐全 tinymce|https://www.tinymce.com </div>
 <div>百度 ueditor|http://ueditor.baidu.com/website </div>
 <div>经典的ckeditor|http://ckeditor.com </div>
@@ -412,7 +393,7 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>XEditor|http://lab.hustlzp.com/XEditor </div>
 <div>wangEditor|https://github.com/wangfupeng1988/wangEditor    </div>
 <div></div>
-<div>###### PC | 地址 --- | ---  </div>
+###### PC | 地址 --- | ---
 <div>经典my97|http://www.my97.net/dp/demo/index.htm </div>
 <div>强大的独立日期选择器|http://www.cnblogs.com/gbin1/archive/2012/04/16/2452105.html </div>
 <div>fullcalendar|http://fullcalendar.io </div>
@@ -433,24 +414,29 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>弹出层式的全日历|http://amsul.ca/pickadate.js/date </div>
 <div>jquery双日历|http://www.daterangepicker.com   </div>
 <div></div>
-<div>###### 移动 | 地址 --- | ---  </div>
+
+###### 移动 | 地址 --- | ---
 <div>大气实用jQuery手机移动端日历日期选择插件|http://www.frankdemo.cn/index.php?c=content&amp;a=show&amp;id=115</div> 
 <div>jQuery Mobile 移动开发中的日期插件Mobiscroll |https://mobiscroll.com   </div>
 <div></div>
-<div>###### Date library | 地址 --- | ---  </div>
+
+###### Date library | 地址 --- | ---
 <div>Datejs|https://github.com/datejs/Datejs </div>
 <div>sugarjs|http://sugarjs.com/api/Date   </div>
 <div></div>
-<div>###### 综合效果搜索平台 | 地址 --- | ---  </div>
+
+###### 综合效果搜索平台 | 地址 --- | ---
 <div>效果网|http://www.jq22.com </div>
 <div>17素材|http://www.17sucai.com </div>
 <div>常用的JavaScript代码片段|http://microjs.com   </div>
 <div></div>
-<div>###### 概述 | 地址 --- | ---  </div>
+
+###### 概述 | 地址 --- | ---
 <div>前端工具大全|http://www.awesomes.cn </div>
 <div>什么是前端工程化|https://github.com/fouber/blog/issues/10?from=timeline&amp;isappinstalled=0#   </div>
 <div></div>
-<div>###### Gulp  | 地址 --- | ---   </div>
+
+###### Gulp  | 地址 --- | ---
 <div>Gulp官网|http://gulpjs.com </div>
 <div>Gulp中文网|http://www.gulpjs.com.cn </div>
 <div>gulp资料收集|https://github.com/Platform-CUF/use-gulp </div>
@@ -466,20 +452,24 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>Gulp开发教程（翻译）|http://www.w3ctech.com/topic/134 </div>
 <div>前端构建工具gulpjs的使用介绍及技巧|http://www.cnblogs.com/2050/p/4198792.html   </div>
 <div></div>
-<div>###### Grunt  | 地址 --- | ---   </div>
+
+###### Grunt  | 地址 --- | --- 
 <div>gruntjs|http://gruntjs.com </div>
 <div>Grunt中文网|http://www.gruntjs.net   </div>
 <div></div>
-<div>###### Fis  | 地址 --- | ---   </div>
+
+###### Fis  | 地址 --- | ---   
 <div>fis 官网|http://fex-team.github.io/fis-site/index.html </div>
 <div>fis|http://fis.baidu.com   </div>
 <div></div>
-<div>###### pc图轮  | 地址 --- | ---   </div>
+
+###### pc图轮  | 地址 --- | ---   
 <div>单屏轮播sochange|http://www.jsfoot.com/jquery/demo/2011-09-20/192.html </div>
 <div>左右按钮多图切换|http://bxslider.com/examples/carousel-demystified </div>
 <div>fullpage全屏轮播|https://github.com/alvarotrigo/fullPage.js   </div>
 <div></div>
-<div>###### 移动端  | 地址 --- | ---   </div>
+
+###### 移动端  | 地址 --- | ---
 <div>无缝切换|http://www.swipejs.com </div>
 <div>滑屏效果|http://www.idangero.us/swiper </div>
 <div>全屏fullpage|https://github.com/peunzhang/fullpage </div>
@@ -504,7 +494,7 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>多种轮换图片|http://ajccom.github.io/niceslider </div>
 <div>滑动侧边栏|https://mango.github.io/slideout  </div>
 
-<div>###### 文件上传  | 地址 --- | ---   </div>
+###### 文件上传  | 地址 --- | ---   
 <div>百度上传组件|http://fex.baidu.com/webuploader </div>
 <div>上传|https://blueimp.github.io/jQuery-File-Upload </div>
 <div>flash 头像上传|http://www.hdfu.net </div>
@@ -512,35 +502,35 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>图片裁剪|http://elemefe.github.io/image-cropper </div>
 <div>图片裁剪-shearphoto|http://www.shearphoto.com </div>
 <div>jQuery图片处理|http://www.oschina.net/project/tag/284/jquery-image-tools?lang=0&amp;os=0&amp;sort=view&amp;p=2   
-<div></div>
-<div>###### 模拟select  | 地址 --- | ---   </div>
+</div>
+###### 模拟select  | 地址 --- | ---   
 <div>糖饼 select|http://aui.github.io/popupjs/doc/selectbox.html </div>
 <div>flexselect|https://github.com/rmm5t/jquery-flexselect </div>
 <div>双select|http://loudev.com select2|http://select2.github.io   </div>
 <div></div>
-<div>###### 取色插件  | 地址 --- | ---   </div>
+###### 取色插件  | 地址 --- | ---   
 <div>类似 Photoshop 的界面取色插件|http://www.jq22.com/plugin/367 jquery color|https://github.com/jquery/jquery-color</div> 
 <div>取色插件集合|http://www.oschina.net/project/tag/287/color-picker </div>
 <div>farbtastic 圆环＋正方形|https://github.com/mattfarina/farbtastic   </div>
 <div></div>
-<div>###### 城市联动  | 地址 --- | ---   </div>
+###### 城市联动  | 地址 --- | ---
 <div>jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果|http://www.ijquery.cn/?p=360   </div>
 <div></div>
-<div>###### 剪贴板  | 地址 --- | ---   </div>
+###### 剪贴板  | 地址 --- | ---
 <div>剪贴板|https://github.com/zeroclipboard/zeroclipboard </div>
 <div>clipboard 最新的剪切方案|http://zenorocha.github.io/clipboard.js </div>
 <div>不是Flash的剪贴板|https://github.com/zenorocha/clipboard.js   </div>
 <div></div>
-<div>###### 简繁转换  | 地址 --- | ---   </div>
+###### 简繁转换  | 地址 --- | ---
 <div>简繁转换|https://github.com/BYVoid/OpenCC   </div>
 <div></div>
-<div>###### 表格 Grid  | 地址 --- | ---   </div>
+###### 表格 Grid  | 地址 --- | ---
 <div>facebook表格|http://facebook.github.io/fixed-data-table </div>
 <div>类似于Excel编辑表格-handsontable|http://handsontable.com </div>
 <div>bootstrap-table插件|http://bootstrap-table.wenzhixin.net.cn </div>
 <div>datatables|https://www.datatables.net   </div>
 <div></div>
-<div>###### 在线演示  | 地址 --- | ---   </div>
+###### 在线演示  | 地址 --- | ---
 <div>js 在线编辑 - runjs|http://runjs.cn js </div>
 <div>在线编辑 - jsbin|http://jsbin.com js </div>
 <div>在线编辑 - codepen|http://codepen.io </div>
@@ -551,13 +541,13 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>sql 在线编辑 - sqlfiddle|http://sqlfiddle.com </div>
 <div>mozilla 在线编辑器|https://thimble.mozilla.org   </div>
 <div></div>
-<div>###### 播放器  | 地址 --- | ---   </div>
+###### 播放器  | 地址 --- | ---
 <div>Html5 VideoPlayer|https://github.com/zmmbreeze/DeadSimpleVideoPlayer  </div> 
 <div></div>
-<div>###### 粒子动画  | 地址 --- | ---   </div>
+###### 粒子动画  | 地址 --- | ---
 <div>Proton 烟花|http://a-jie.github.io/Proton/#example   </div>
 
-<div>###### Nodejs  | 地址 --- | ---   </div>
+###### Nodejs  | 地址 --- | ---
 <div>nodejs 篇幅比较巨大|http://liuqing.pw </div>
 <div>Node.js 包教不包会|https://github.com/alsotang/node-lessons </div>
 <div>篇幅比较少|http://www.rainweb.cn/article/category/Nodejs </div>
@@ -568,7 +558,8 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>过年7天乐，学nodejs 也快乐|http://www.cnblogs.com/qqloving/p/3541099.html </div>
 <div>七天学会NodeJS|https://github.com/nqdeng/7-days-nodejs </div>
 <div>Nodejs学习笔记（二）--- 事件模块|http://www.cnblogs.com/zhongweiv/p/nodejs_events.html </div>
-<div>nodejs入门|http://www.cnblogs.com/liusuqi/p/3735491.html angularjs nodejs|https://github.com/zensh/jsgen</div> 
+<div>nodejs入门|http://www.cnblogs.com/liusuqi/p/3735491.html </div>
+<div>angularjs nodejs|https://github.com/zensh/jsgen</div> 
 <div>从零开始nodejs系列文章|http://blog.fens.me/series-nodejs </div>
 <div>理解nodejs|http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb </div>
 <div>nodejs事件轮询|http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop </div>
@@ -576,7 +567,7 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>Node初学者入门，一本全面的NodeJS教程|http://ourjs.com/detail/529ca5950cb6498814000005 </div>
 <div>NodeJS的代码调试和性能调优|http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line   </div>
 <div></div>
-<div>###### 常规优化|地址 --- | --- </div>
+###### 常规优化|地址 --- | ---
 <div>Javascript高性能动画与页面渲染|http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering </div>
 <div>移动H5前端性能优化指南|http://isux.tencent.com/h5-performance.html </div>
 <div>5173首页前端性能优化实践|http://ued.5173.com/?p=1731 </div>
@@ -627,24 +618,24 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>Need for Speed – How to Improve your Website Performance|https://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance </div>
 <div>阿里无线前端性能优化指南 (Pt.1 加载期优化 |https://github.com/amfe/article/issues/1   </div>
 <div></div>
-<div>###### 优化工具|地址 --- | --- </div>
+###### 优化工具|地址 --- | ---
 <div>JavaScript 性能分析新工具 OneProfile|http://www.html-js.com/article/3083 </div>
 <div>JavaScript 堆内存分析新工具 OneHeap|http://www.html-js.com/article/3091   </div>
 <div></div>
-<div>###### 在线工具|地址 --- | --- </div>
+###### 在线工具|地址 --- | ---
 <div>google在线工具|https://developers.google.com/speed/pagespeed/insights </div>
 <div>阿里测|http://www.alibench.com 阿里-免费测试服务|http://itest.aliyun.com </div>
 <div>阿里-F2etest多浏览器兼容性测试解决方案|https://github.com/alibaba/f2etest </div>
 <div>js性能测试|http://jsperf.com   </div>
 <div></div>
-<div>###### 前端架构|地址 --- | --- </div>
+###### 前端架构|地址 --- | ---
 <div>技术架构|http://www.zhihu.com/topic/19612641 </div>
 <div>前端架构|http://saito.im/note/The-Architecture-of-F2E </div>
 <div>如何成为前端架构师|http://www.zhihu.com/question/24092572 </div>
 <div>关于前端架构-张克军|http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html </div>
 <div>百度腾讯offer比较（腾讯游戏VS百度基础架构）|http://www.zhihu.com/question/25583350   </div>
 <div></div>
-<div>###### 推荐作品|地址 --- | --- </div>
+###### 推荐作品|地址 --- | ---
 <div>winter代码片段需要翻墙|https://gist.github.com/wintercn </div>
 <div>fgm|http://www.fgm.cc/learn </div>
 <div>岑安作品集|https://github.com/hongru/hongru.github.com </div>
@@ -674,10 +665,10 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>黑白棋|http://js-game.github.io/othello </div>
 <div>fromone|http://yansm.github.io/fromone/index.html   </div>
 <div></div>
-<div>###### 国外大牛精品|地址 --- | --- </div>
+###### 国外大牛精品|地址 --- | ---
 <div>pazguille|http://pazguille.me   </div>
 <div></div>
-<div>###### 简历模板|地址 --- | --- </div>
+###### 简历模板|地址 --- | ---
 <div>不错的个人简历|http://learnshare.github.io/about/index.html</div> 
 <div>简历|http://hcy2367.github.io/resume </div>
 <div>张伦|http://ncuey.sinaapp.com/CrispElite/  </div>
@@ -689,7 +680,7 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>haorooms博客|http://www.haorooms.com/about </div>
 <div>Justin Young|http://cv.youngdze.com   </div>
 <div></div>
-<div>###### 面试题|地址 --- | --- </div>
+###### 面试题|地址 --- | ---
 <div>那几个月在找工作（百度，网易游戏）|http://www.nowcoder.com/discuss/3196</div> 
 <div>2014最新面试题|http://www.html-js.com/article/1743 </div>
 <div>阿里前端面试题|http://www.w3cfuns.com/thread-5598563-2-1.html </div>
@@ -719,7 +710,7 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>前端开发面试题|https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md </div>
 <div>牛客网-笔试面经|http://www.nowcoder.com/discuss?type=2   </div>
 <div></div>
-<div>###### iconfont|地址 --- | --- </div>
+###### iconfont|地址 --- | ---
 <div>中文字体|http://www.zhihu.com/question/21253343 </div>
 <div>淘宝字库|http://iconfont.cn </div>
 <div>字体|http://mux.alimama.com/fonts </div>
@@ -728,19 +719,19 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>用字体在网页中画ICON图标(推荐教程|http://imooc.com/learn/243 </div>
 <div>字体压缩工具|http://font-spider.org   </div>
 <div></div>
-<div>###### 前端开发工具|地址 --- | --- </div>
+###### 前端开发工具|地址 --- | ---
 <div>IntelliJ IDEA 简体中文专题教程|https://github.com/judasn/IntelliJ-IDEA-Tutorial </div>
 <div>Webstorm,InterllIdea,Phpstorm|http://t.cn/8kZZ1Uy </div>
 <div>SublimeText|https://github.com/jikeytang/sublime-text </div>
 <div>Atom|https://atom.io </div>
 <div>visual studio code|https://code.visualstudio.com   </div>
 <div></div>
-<div>###### Fiddler|地址 --- | --- </div>
+###### Fiddler|地址 --- | ---
 <div>Fiddler调式使用知多少(一深入研究|http://www.cnblogs.com/tugenhua0707/p/4623317.html </div>
 <div>微信fiddle|http://www.cnblogs.com/strick/p/4570006.html </div>
 <div>微信fiddle|http://gaoboy.com/article/26.html   </div>
 </div>
-<div>###### Chrome|地址 --- | --- </div>
+###### Chrome|地址 --- | ---
 <div>Google Chrome 官方|https://developer.chrome.com/devtools </div>
 <div>Chrome - 基础|http://www.cnblogs.com/constantince/p/4565261.html </div>
 <div>Chrome - 进阶|http://www.cnblogs.com/constantince/p/4579121.html </div>
@@ -772,14 +763,14 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>Chrome开发者工具不完全指南|http://1ke.co/course/361 </div>
 <div>Chrome 开发者工具使用技巧|http://segmentfault.com/a/1190000003882567   </div>
 <div></div>
-<div>###### Firebug|地址 --- | --- </div>
+###### Firebug|地址 --- | ---
 <div>firebug视频教程|http://www.imooc.com/learn/137 </div>
 <div>firefox 模拟器|https://developer.mozilla.org/zh-CN/docs/Tools/WebIDE </div>
 <div>console.log 命令详解|http://www.cnblogs.com/ctriphire/p/4116207.html </div>
 <div>Firebug入门指南|http://www.ruanyifeng.com/blog/2008/06/firebug_tutorial.html </div>
 <div>Firebug控制台详解|http://www.ruanyifeng.com/blog/2011/03/firebug_console_tutorial.html   </div>
 <div></div>
-<div>###### 移动,微信调试|地址 --- | --- </div>
+###### 移动,微信调试|地址 --- | ---
 <div>浏览器端调试安卓|https://openstf.github.io </div>
 <div>移动端前端开发调试|http://yujiangshui.com/multidevice-frontend-debug </div>
 <div>使用 Chrome 远程调试 Android 设备|https://github.com/yujiangshui/CN-Chrome-DevTools/blob/remote-debugging/md/Use-Tools/remote-debugging.md </div>
@@ -795,26 +786,26 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>iOS Simulator|地址 --- | --- Simulator|https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/iOS_Simulator_Guide/Introduction/Introduction.html </div>
 <div>Xcode中的iOS模拟器(iOS Simulator的介绍和使用心得|http://www.crifan.com/intro_ios_simulator_in_xcode_and_usage_summary   </div>
 <div></div>
-<div>###### img|地址 --- | --- </div>
+###### img|地址 --- | ---
 <div>loading img|http://preloaders.net/en/circular </div>
 <div>智图-图片优化平台|http://zhitu.isux.us </div>
 <div>在线png优化|https://tinypng.com   </div>
 <div></div>
-<div>###### 生成二维码|地址 --- | --- </div>
+###### 生成二维码|地址 --- | ---
 <div>生成二维码|http://cli.im   </div>
 <div></div>
-<div>###### 浏览器同步|地址 --- | --- </div>
+###### 浏览器同步|地址 --- | ---
 <div>puer|https://github.com/leeluolee/puer </div>
 <div>liveReload|http://livereload.com </div>
 <div>f5|http://getf5.com </div>
 <div>File Watchers|http://geek100.com/2608   </div>
-<div>###### 在线PPT制作|地址 --- | ---</div>
+###### 在线PPT制作|地址 --- | ---
 <div>nodePPT|http://js8.in/2013/11/16/%E6%8E%A8%E8%8D%90nodeppt%EF%BC%9A%E4%BD%BF%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E6%9D%A5%E5%86%99%E7%BD%91%E9%A1%B5ppt</div> 
 <div>PPT|https://github.com/ksky521/nodePPT </div>
 <div>reveal|https://github.com/hakimel/reveal.js 
 <div>slippy|https://github.com/Seldaek/slippy   </div>
 <div></div>
-<div>###### 前端导航网站|地址 --- | --- </div>
+###### 前端导航网站|地址 --- | ---
 <div>界面清爽的前端导航|http://uxbees.com/index.html </div>
 <div>前端导航|http://whycss.com </div>
 <div>前端网址导航|http://www.daqianduan.com/nav </div>
@@ -826,7 +817,7 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>前端资源导航|https://github.com/jnoodle/f2e-collect </div>
 <div>F2E 前端导航|http://f2e.im/static/pages/nav/index.html   </div>
 <div></div>
-<div>###### 常用CDN|地址 --- | --- </div>
+###### 常用CDN|地址 --- | ---
 <div>新浪CDN|http://lib.sinaapp.com </div>
 <div>百度静态资源公共库|http://cdn.code.baidu.com </div>
 <div>360网站卫士常用前端公共库CDN服务|http://libs.useso.com </div>
@@ -836,7 +827,7 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>Google jQuery CDN|http://www.google-jquery-cdn.com </div>
 <div>微软CDN|http://www.asp.net/ajax/cdn   </div>
 <div></div>
-<div>###### Git|地址 --- | --- </div>
+###### Git|地址 --- | ---
 <div>git-scm|http://git-scm.com </div>
 <div>廖雪峰-Git教程|http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000 </div>
 <div>git-for-windows|https://git-for-windows.github.io </div>
@@ -873,3 +864,37 @@ Angularjs学习|http://www.cnblogs.com/amosli/p/3710648.html </div>
 <div>SegmentFault写的Markdown解析器|https://github.com/SegmentFault/HyperDown.js </div>
 <div>基于node.js的Ghost博客|https://github.com/TryGhost/Ghost </div>
 <div>学习react的demos|https://github.com/ruanyf/react-demos</div>
+
+
+
+###### Requriejs| 地址 --- | ---  
+<div>Javascript模块化编程（一）：模块的写法 |http://www.ruanyifeng.com/blog/2012/10/javascript_module.html </div>
+<div>Javascript模块化编程（二）：AMD规范|http://www.ruanyifeng.com/blog/2012/10/<div>asynchronous_module_definition.html </div>
+<div>Javascript模块化编程（三）：require.js的用法|http://www.ruanyifeng.com/blog/2012/11/require_js.html </div>
+<div>RequireJS入门（一）|http://www.cnblogs.com/snandy/archive/2012/05/22/2513652.html </div>
+<div>RequireJS入门（二）|http://www.cnblogs.com/snandy/archive/2012/05/23/2513712.html </div>
+<div>RequireJS进阶（三）|http://www.cnblogs.com/snandy/archive/2012/06/08/2538001.html </div>
+<div>requrie源码学习|http://www.cnblogs.com/yexiaochai/p/3632580.html  </div>
+<div>requrie 入门指南|http://www.oschina.net/translate/getting-started-with-the-requirejs-library  </div>
+<div>requrieJS 学习笔记|http://www.cnblogs.com/yexiaochai/p/3214926.html  </div>
+<div>requriejs 其一 |http://cyj.me/why-seajs/requirejs/  </div>
+<div>require backbone结合|http://www.cnblogs.com/yexiaochai/p/3221081.html    </div>
+
+###### 其它API| 地址 --- | ---  
+<div>javascript流行库汇总|javascriptoo </div>
+<div>验证api|http://niceue.com/validator/demo/index.php </div>
+<div>underscore 中文手册|http://www.css88.com/doc/underscore </div>
+<div>underscore源码分析|http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-<div>source-code-analysis%203031 </div>
+<div>underscore源码分析-亚里士朱德的博客|http://yalishizhude.github.io/tags/underscore</div> 
+<div>underscrejs en api|http://underscorejs.org </div>
+<div>lodash - underscore的代替品|https://lodash.com </div>
+<div>ext4api|http://extjs-doc-cn.github.io/ext4api </div>
+<div>backbone 中文手册|http://www.csser.com/tools/backbone/backbone.js.html </div>
+<div>qwrap手册|http://dev.qwrap.com/resource/js/_docs/_youa/#/qw/base/loadJs_.htm </div>
+<div>缓动函数|http://easings.net/zh-cn </div>
+<div>svg 中文参考|http://www.w3school.com.cn/svg/svg_reference.asp </div>
+<div>svg mdn参考|https://developer.mozilla.org/en-US/docs/Web/SVG </div>
+<div>svg 导出 canvas|https://github.com/gabelerner/canvg </div>
+<div>svg 导出 png|https://github.com/exupero/saveSvgAsPng </div>
+<div>ai-to-svg|http://www.zamzar.com/convert/ai-to-svg </div>
+<div>localStorage 库|https://github.com/machao/localStorage   </div>  
